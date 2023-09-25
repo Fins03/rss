@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <client>
+    <local>1</local>
+  </client>
+  <data>
+    <name>张炯敏</name>
+    <uri>https://m.weibo.cn/p/100808acd09da5f83b77e78bb61cb6338f8f63/super_index?jumpfrom=weibocom</uri>
+    <config>{"selections":[{"frames":[{"index":0,"excludes":[],"includes":[{"type":"css","expr":".m-cur *","fields":[{"name":"text","type":"builtin"}]},{"type":"css","expr":"div[class*='center']:first-child [class*='item']","fields":[{"name":"text","type":"builtin"}]},{"type":"css","expr":".weibo-member&gt; [class*='card']","fields":[{"name":"text","type":"builtin"}]},{"type":"css","expr":"[class*='m-avatar'] .m-box","fields":[{"name":"text","type":"builtin"}]}]}],"dynamic":true,"delay":2}],"ignoreEmptyText":true,"includeStyle":false,"dataAttr":"text","regexp":{"expr":"","flags":"gim"}}</config>
+    <tags></tags>
+    <content_type>2</content_type>
+    <state>40</state>
+    <schedule>{"type":"INTERVAL","params":{"interval":10800}}</schedule>
+    <ts>2023-09-25T07:28:34.000Z</ts>
+    <datasource_id></datasource_id>
+  </data>
+</root>
