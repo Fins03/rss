@@ -1,17 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <client>
-    <local>1</local>
-  </client>
-  <data>
-    <name>张炯敏</name>
-    <uri>https://m.weibo.cn/p/100808acd09da5f83b77e78bb61cb6338f8f63/super_index?jumpfrom=weibocom</uri>
-    <config>{"selections":[{"frames":[{"index":0,"excludes":[],"includes":[{"type":"css","expr":".m-cur *","fields":[{"name":"text","type":"builtin"}]},{"type":"css","expr":"div[class*='center']:first-child [class*='item']","fields":[{"name":"text","type":"builtin"}]},{"type":"css","expr":".weibo-member&gt; [class*='card']","fields":[{"name":"text","type":"builtin"}]},{"type":"css","expr":"[class*='m-avatar'] .m-box","fields":[{"name":"text","type":"builtin"}]}]}],"dynamic":true,"delay":2}],"ignoreEmptyText":true,"includeStyle":false,"dataAttr":"text","regexp":{"expr":"","flags":"gim"}}</config>
-    <tags></tags>
-    <content_type>2</content_type>
-    <state>40</state>
-    <schedule>{"type":"INTERVAL","params":{"interval":10800}}</schedule>
-    <ts>2023-09-25T07:28:34.000Z</ts>
-    <datasource_id></datasource_id>
-  </data>
-</root>
+<rss ?xml version="2.0">
+<channel>
+<title>微博</title>
+<description>随时随地发现新鲜事！微博带你欣赏世界上每一个精彩瞬间，了解每一个幕后故事。分享你想表达的，让全世界都能听到你的心声！</description>
+<pubDate>Wed, 27 Sep 2023 05:10:04 +0000</pubDate>
+<link>https://m.weibo.cn/p/100808ca79a2e3da9428faa6afbf2e2d74095d/super_index?jumpfrom=weibocom</link>
+<atom:link href="http://fetchrss.com/rss/651120f9f5edbb46f816d9026513b92ccd88de4742298f03.xml" rel="self" type="application/rss+xml"/>
+<generator>https://fetchrss.com</generator>
+<image>
+<link>https://m.weibo.cn/p/100808ca79a2e3da9428faa6afbf2e2d74095d/super_index?jumpfrom=weibocom</link>
+<url>https://www.google.com/s2/favicons?domain=https://m.weibo.cn</url>
+<title>微博</title>
+</image>
+<item>
+<title/>
+<link>https://m.weibo.cn/p/100808ca79a2e3da9428faa6afbf2e2d74095d/javascript:;</link>
+<description>
+<![CDATA[ <div class="weibo-og"> <p class="empty-bg txt-margin anim-load"/> <p class="empty-bg txt-margin anim-load"/> <p class="empty-bg txt-margin anim-load"/> <p class="empty-bg txt-margin anim-load"/> <p class="empty-bg txt-margin anim-load"/> </div><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<dc:creator/>
+<pubDate>Wed, 27 Sep 2023 05:10:04 +0000</pubDate>
+<guid isPermaLink="false">https://m.weibo.cn/p/100808ca79a2e3da9428faa6afbf2e2d74095d/javascript:;</guid>
+</item>
+</channel>
+</rss>
